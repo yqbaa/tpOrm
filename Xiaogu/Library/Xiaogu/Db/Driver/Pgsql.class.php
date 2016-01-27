@@ -9,8 +9,8 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
-namespace Think\Db\Driver;
-use Think\Db\Driver;
+namespace Xiaogu\Db\Driver;
+use Xiaogu\Db\Driver;
 
 /**
  * Pgsql数据库驱动
